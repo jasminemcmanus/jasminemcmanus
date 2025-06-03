@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jasmine McManus, a front-end web developer based in Melbourne.
+# 👋 Hi, I’m Jasmine McManus, a front-end web developer based in Adelaide.
 
 ### Some of my recent projects:
 
